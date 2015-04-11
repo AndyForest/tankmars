@@ -1,4 +1,4 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="movement_forward" id="16" x="0" y="-12"></block>
-  <block type="movement_stutter" id="36" x="1" y="259"></block>
+  <block type="movement_stutter" id="36" x="-6" y="84"></block>
 </xml>
